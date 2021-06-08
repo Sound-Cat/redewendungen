@@ -54,7 +54,7 @@ let questions = [
         choiceA: "Etwas passt perfekt",
         choiceB: "Etwas passt gar nicht",
         choiceC: "Jemanden Schlagen",
-        correct: "A"
+        correct: "B"
     },{
         question: 'Was bedeutet "ins Gras beißen"?',
         img: "",
